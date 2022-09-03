@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Colin 👋
 
-<!--
-**colinlaganier/colinlaganier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍🎓 Robotics & Computing @ UCL 23' <br />
+   Design Engineering @ Imperial College 22' <br />
 
-Here are some ideas to get you started:
+🔙 Former Electronics Engineer @ [P&G](https://us.pg.com/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning C++ Design Patterns
+
+🔭 Currently working on a Homebridge enabled Raspberrry Pi
+
+🔗 https://colinlaganier.com
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinlaganier&layout=compact&langs_count=5&hide=jupyter%20notebook) 
+
+

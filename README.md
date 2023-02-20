@@ -7,7 +7,7 @@
 
 🌱 Currently learning more about C++ Design Patterns
 
-🔭 Currently working on a Homebridge enabled Raspberrry Pi
+🔭 Currently working on Distributed Learning frameworks 
 
 <!-- 🔗 https://colinlaganier.com -->
 

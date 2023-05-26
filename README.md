@@ -11,5 +11,5 @@
 
 <!-- 🔗 https://colinlaganier.com -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=colinlaganier&layout=compact&langs_count=5&hide=jupyter%20notebook) 
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=colinlaganier&layout=compact&langs_count=5&hide=jupyter%20notebook) 
 

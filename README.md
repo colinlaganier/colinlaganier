@@ -5,9 +5,9 @@
 
 🔙 Former Electronics Engineer @ [P&G](https://us.pg.com/)
 
-🌱 Currently learning more about C++ Design Patterns
+🌱 Currently learning more about Diffusion Models
 
-🔭 Currently working on Distributed Learning frameworks 
+🔭 Currently working on [Federated Learning with Diffusion-based Knowledge Distillation in Heterogeneous Networks](https://github.com/colinlaganier/FedKDD)
 
 <!-- 🔗 https://colinlaganier.com -->
 
